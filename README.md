@@ -75,7 +75,7 @@ We welcome contributions! Please follow these steps:
 
 ## Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact us at [your-email@example.com](owaismohd857@example.com).
+If you have any questions or suggestions, feel free to open an issue or contact us at [owaismohd857@example.com](owaismohd857@example.com).
 
 ---
 
