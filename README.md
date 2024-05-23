@@ -16,7 +16,7 @@ Web Exploration Recorder is a Chrome extension paired with a Node.js backend tha
 - Node.js (version 14 or later)
 - npm (Node package manager)
 
-###Demo 
+### Demo 
 -[Demo vide live here](https://drive.google.com/file/d/1svMlMLnAVk106Bwh5ChAPR8mV_jhb8rM/view?usp=sharing).
 
 
