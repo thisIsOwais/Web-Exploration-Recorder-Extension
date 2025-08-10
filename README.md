@@ -2,6 +2,9 @@
 
 Web Exploration Recorder is a Chrome extension paired with a Node.js backend that captures and records web browsing activities. It captures the sequence of URLs you hover over while exploring web pages and records these interactions as rr web events. These events can then be displayed on a video player using the extension.
 
+### Demo 
+-[Demo video of extension live here](https://drive.google.com/file/d/1svMlMLnAVk106Bwh5ChAPR8mV_jhb8rM/view?usp=sharing).
+
 ## Features
 
 - **Real-time URL Capture**: Records the sequence of URLs hovered over during browsing.
@@ -16,8 +19,7 @@ Web Exploration Recorder is a Chrome extension paired with a Node.js backend tha
 - Node.js (version 14 or later)
 - npm (Node package manager)
 
-### Demo 
--[Demo video of extension live here](https://drive.google.com/file/d/1svMlMLnAVk106Bwh5ChAPR8mV_jhb8rM/view?usp=sharing).
+
 
 
 ### Backend Setup
